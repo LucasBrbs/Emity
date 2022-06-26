@@ -43,7 +43,7 @@ The logo is based on two leaves and a universal union symbol.
 
 [<h3>Daniel Cotta</h3>](https://github.com/CaioFaSoares)
 
-[<h3>Alexander</h3>](https://github.com/Laafal)
+[<h3>Alexsander</h3>](https://github.com/Laafal)
 
 
 
