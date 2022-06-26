@@ -54,6 +54,12 @@ The logo is based on two leaves and a universal union symbol.
     <img width="893" alt="Screen Shot 2022-06-26 at 13 09 35" src="https://user-images.githubusercontent.com/47783422/175823354-b1069fdf-e6ea-4535-ab44-19f4d9c12e47.png?raw=true">
 </p>
 
+# Apresentation
+
+
+
+https://user-images.githubusercontent.com/47783422/175826515-7a1daf2c-eab3-454e-819a-a9f4c3d2efbc.mp4
+
 
 # Our thoughts
 
