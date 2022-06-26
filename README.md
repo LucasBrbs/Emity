@@ -1,12 +1,17 @@
 <p align="center">
     <img height="200"src="https://user-images.githubusercontent.com/47783422/175820791-e4d19a2a-7f84-4dd2-8125-fd163466ddd7.png?raw=true">
     <h2 align="center"> Community rewards for sustainable living </h2> 
+📁 Documentation
+
+[<h3>Figma</h3>](https://www.figma.com/file/5s1HXySRgGJNlcEUcZjSPX/App-Model?node-id=415%3A2)
+
+[<h3>Figjam</h3>](https://www.figma.com/file/YRDAx1zwhsUQgismKoNMVl/Figjam?node-id=3%3A591)
     
 </p>
 
 # The ideia 
  
-O nosso projeto incita que o usuario individual cuide da sua residencia de forma sustentavel (NET0), e além disso tambem construa e mostre o porque disso ser eficiente
+Our project encourages the individual user to take care of their residence in a sustainable way (NET0), and in addition, also build and show why this will be efficient
  
 # Registration
    The user registers the app and is faced with several ways to be ecologically correct and Tips on how to do this, each of the user's actions will lead him to earn points in 2 different categories and they are a waste of light and water.
@@ -26,12 +31,6 @@ O nosso projeto incita que o usuario individual cuide da sua residencia de forma
  
 ## Logo
 The logo is based on two leaves and a universal union symbol.
-
-# 📁 Documentation
-
-[<h3>Figma</h3>](https://www.figma.com/file/5s1HXySRgGJNlcEUcZjSPX/App-Model?node-id=415%3A2)
-
-[<h3>Figjam</h3>](https://www.figma.com/file/YRDAx1zwhsUQgismKoNMVl/Figjam?node-id=3%3A591)
     
 
 # 👋 Authors
