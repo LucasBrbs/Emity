@@ -3,9 +3,9 @@
     <h2 align="center"> Community rewards for sustainable living </h2> 
 📁 Documentation
 
-[<h3>Figma</h3>](https://www.figma.com/file/5s1HXySRgGJNlcEUcZjSPX/App-Model?node-id=415%3A2)
+[<h3>Figma</h3>](https://www.figma.com/file/5s1HXySRgGJNlcEUcZjSPX/App-Model?node-id=450%3A83)
 
-[<h3>Figjam</h3>](https://www.figma.com/file/YRDAx1zwhsUQgismKoNMVl/Figjam?node-id=3%3A591)
+[<h3>Figjam</h3>](https://www.figma.com/file/YRDAx1zwhsUQgismKoNMVl/Figjam?node-id=4%3A129)
     
 </p>
 
