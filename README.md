@@ -55,7 +55,11 @@ The logo is based on two leaves and a universal union symbol.
 </p>
 
 
-## Our thoughts
+# Our thoughts
 
-# Personas
+## Persona
+<img width="1117" alt="Screen Shot 2022-06-26 at 13 27 10" src="https://user-images.githubusercontent.com/47783422/175824045-02b0fb1f-538e-4ee0-acb8-75cec92141b6.png">
+
+## Journey
+<img width="1231" alt="Screen Shot 2022-06-26 at 13 26 37" src="https://user-images.githubusercontent.com/47783422/175824025-88f9e51a-7ff2-4941-a4d4-1f359f372891.png">
 
