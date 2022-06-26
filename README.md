@@ -11,7 +11,7 @@
 
 # The ideia 
  
-Our project encourages the individual user to take care of their residence in a sustainable way (NET0), and in addition, also build and show why this will be efficient
+   Our project encourages the individual user to take care of their residence in a sustainable way (NET0), and in addition, also build and show why this will be efficient
  
 # Registration
    The user registers the app and is faced with several ways to be ecologically correct and Tips on how to do this, each of the user's actions will lead him to earn points in 2 different categories and they are a waste of light and water.
@@ -40,6 +40,15 @@ The logo is based on two leaves and a universal union symbol.
 
 [<h3>Artur</h3>](https://github.com/Laafal)
 
-[<h3>Daniel Costa</h3>](https://github.com/CaioFaSoares)
+[<h3>Daniel Cotta</h3>](https://github.com/CaioFaSoares)
 
 [<h3>Alexander</h3>](https://github.com/Laafal)
+
+
+
+## Meet Emity
+
+
+ <p align="center">
+    <img width="893" alt="Screen Shot 2022-06-26 at 13 09 35" src="https://user-images.githubusercontent.com/47783422/175823354-b1069fdf-e6ea-4535-ab44-19f4d9c12e47.png?raw=true">
+</p>
